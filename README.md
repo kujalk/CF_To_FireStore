@@ -1,6 +1,6 @@
 # Triggering Cloud Function via Pub/Sub to store data in FireStore
 
-Purpose - Sample project to trigger cloud function from pub/sub message and insert data into Firestore. Sample data is collected from http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/data/mondial/mondial-3.0.xml
+Blog - https://scripting4ever.wordpress.com/2022/07/30/triggering-cloud-function-via-pub-sub-to-store-data-in-firestore/
 
 Developer - K.Janarthanan
 
