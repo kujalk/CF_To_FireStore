@@ -4,6 +4,8 @@ Purpose - Sample project to trigger cloud function from pub/sub message and inse
 
 Developer - K.Janarthanan
 
+![alt text](https://github.com/kujalk//CF_To_FireStore/blob/main/Architecture.png)
+
 # Notes
 
 1. New collection is created everytime with "country*{date}*{randomstring}" format
