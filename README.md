@@ -8,7 +8,7 @@ Developer - K.Janarthanan
 
 # Notes
 
-1. New collection is created everytime with "country*{date}*{randomstring}" format
+1. New collection is created everytime with "{date}_{randomstring}" format
 
 2. Data is inserted in batch wise to the above collection
 
