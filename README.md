@@ -4,7 +4,7 @@ Purpose - Sample project to trigger cloud function from pub/sub message and inse
 
 Developer - K.Janarthanan
 
-![alt text](https://github.com/kujalk//CF_To_FireStore/blob/main/Architecture.png)
+![alt text](https://github.com/kujalk/CF_To_FireStore/blob/main/Diagram/Architecture.png)
 
 # Notes
 
